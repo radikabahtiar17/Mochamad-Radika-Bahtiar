@@ -1,0 +1,6 @@
+{
+  "name": "SPIL HSE 5R / 5S Assessment",
+  "description": "Portal asesmen HSE 5R/5S SPIL untuk unggah foto bukti lapangan, catatan temuan, pemberian skor & feedback penilai, serta dashboard kepatuhan real-time.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
